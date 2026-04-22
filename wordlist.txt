@@ -1,0 +1,31 @@
+# AdminFinder Custom Wordlist
+# Add one path per line. Lines starting with # are ignored.
+# Author: Decryptious_ on Discord / Punchborn on IG
+
+admin
+administrator
+wp-admin
+wp-login.php
+admin/login
+admin/signin
+panel
+cpanel
+dashboard
+backend
+manage
+management
+portal
+secure
+private
+api/admin
+api/v1/admin
+control
+controlpanel
+phpmyadmin
+pma
+adminer
+sysadmin
+system/admin
+login
+signin
+auth
